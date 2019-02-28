@@ -1,0 +1,25 @@
+{
+  "name": "prueba-redcapita-vuejs",
+  "version": "1.0.0",
+  "description": "prueba para postular al cargo de front-end developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marielk/redcapital-prueba.git"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "vue",
+    "front-end"
+  ],
+  "author": "mariel q gallardp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marielk/redcapital-prueba/issues"
+  },
+  "homepage": "https://github.com/Marielk/redcapital-prueba#readme"
+}
